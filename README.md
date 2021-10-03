@@ -1,2 +1,5 @@
-# eleutria-bounty
-ubuntu (10 or 12) graphics driver for 50 BTC
+-------------------
+| eleutria-bounty |
+-------------------
+
+bitcointalk ubuntu (10 or 12) graphics driver install/config for 50 BTC
